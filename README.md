@@ -120,11 +120,10 @@ urlpatterns = [
 
 ```
 
-## OUTPUT
-![alt text](<Screenshot 2024-08-28 093415.png>) 
+## OUTPUT 
+![image](https://github.com/user-attachments/assets/c983b408-6323-4542-994e-3ef1e6e8a404)
+![image](https://github.com/user-attachments/assets/b99e0c97-d388-4eab-bc3c-283c1f205a12)
 
-## COURSERA GRADE
-![alt text](<Screenshot 2024-08-28 093617.png>) 
 
 
 ## RESULT
